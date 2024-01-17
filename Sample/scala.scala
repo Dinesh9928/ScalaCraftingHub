@@ -1,0 +1,5 @@
+package Sample
+
+class scala {
+  
+}
